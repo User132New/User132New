@@ -4,7 +4,7 @@ Learner in alpha-stages.
 
 Previously called TheUselessBro
 - 🌱 I’m currently learning Python, Java and UML.( Interested in learning about custom-roms and android development.)
-- 🤔 I’m looking for help with....., ,,  duh, I am still learning, help me learn whatever.
+- 🤔 I am still learning, help me learn whatever.
 <!--
 **User132New/User132New** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
