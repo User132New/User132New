@@ -1,6 +1,6 @@
 I make useless things that are completely irrelevent.
 
-Learner in alpha-stages.
+Learner in alpha-stage.
 
 Previously called TheUselessBro
 - 🌱 I’m currently learning Python, Java and UML.( Interested in learning about custom-roms and android development.)
