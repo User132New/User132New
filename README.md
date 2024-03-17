@@ -1,7 +1,5 @@
 I make useless things that are completely irrelevent.
 
-Learner in alpha-stage.
-
 Official Halcyon Maintainer - Redmi Note 10S...
 
 <!--
