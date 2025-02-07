@@ -1,6 +1,6 @@
 I make useless things that are completely irrelevent.
 
-Official Halcyon Maintainer - Redmi Note 10S...
+Ex-Official Halcyon Maintainer - Redmi Note 10S...
 
 <!--
 **User132New/User132New** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
